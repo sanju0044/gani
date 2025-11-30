@@ -1,0 +1,9 @@
+# Ignore backup SQL file
+ganitalay-03-07-2024.sql
+
+# Ignore storage folder
+/storage/
+
+# Ignore vendor (if you're pushing only code)
+/vendor/
+/public/
