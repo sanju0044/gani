@@ -7,3 +7,7 @@ ganitalay-03-07-2024.sql
 # Ignore vendor (if you're pushing only code)
 /vendor/
 /public/
+node_modules/
+composer-install.log
+composer.phar
+package-lock.json
