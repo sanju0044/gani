@@ -13,3 +13,8 @@ composer.phar
 package-lock.json
 /azad/
 /azad.html 
+.env.example
+.env
+.htaccess
+/.env
+/.htaccess
