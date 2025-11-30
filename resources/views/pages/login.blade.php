@@ -166,7 +166,7 @@
       <div class="copyright">
         <div class="row align-items-center">
           <div class="col-md-12 text-center text-white">
-            <span>MAAP Epic Communications Pvt.Ltd @2022</span>
+            <span>MAAP Epic Communications Pvt.Ltd @20222</span>
           </div>
         </div>
       </div>

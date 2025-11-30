@@ -70,7 +70,7 @@
 
     <!-- Footer -->
     <div class="footer-wrap">
-        MAAP Epic Communications Pvt.Ltd @2022
+        MAAP Epic Communications Pvt.Ltd @20222
     </div>
 
     <!-- JS Files -->
