@@ -11,4 +11,5 @@ node_modules/
 composer-install.log
 composer.phar
 package-lock.json
-azad
+/azad/
+/azad.html 
